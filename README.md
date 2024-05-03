@@ -2,7 +2,7 @@
 
 > Um site que contém alguns links relevantes sobre a minha pessoa.
 
-Acesse clicando [aqui](https://dvdiogo.github.io/pilotproject/)!
+Acesse clicando [aqui](https://dvdiogo.github.io)!
 
 Esse site foi feito com HTML e CSS, publicado com GitHub Pages.
 
